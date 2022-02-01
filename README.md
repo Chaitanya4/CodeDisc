@@ -14,7 +14,7 @@ A slack integration for discussing code present on GitHub repository.
 <a href="https://slack.com/oauth/v2/authorize?client_id=2943562887175.2970828686849&scope=commands&user_scope=openid"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcSet="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
 
 ### Manual Set up
-1. Deploy to Heroku [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)		
+1. Deploy to Heroku	
 2. Remember that url 		
 3. Go to your slack team's slash commands configuration		
 4. Add 4 commands, each pointing to these url respectively:		
