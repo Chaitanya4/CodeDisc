@@ -19,7 +19,7 @@ A slack integration for discussing code present on GitHub repository.
 3. Go to your slack team's slash commands configuration		
 4. Add 4 commands, each pointing to these url respectively:		
  * codedisc, [your-deployed-heroku-url]/codereview		
- * showline, [your-deployed-heroku-url]/showline		
+ * showlines, [your-deployed-heroku-url]/showline		
  * refer, [your-deployed-heroku-url]/refer		
  * find, [your-deployed-heroku-url]/search
 5. Configure other options as you see fit, and you are done!
